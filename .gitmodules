@@ -1,0 +1,3 @@
+[submodule "vanilla/lab"]
+	path = vanilla/lab
+	url = https://github.com/higueraDev/js-lab
