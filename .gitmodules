@@ -1,3 +1,9 @@
 [submodule "vanilla/lab"]
 	path = vanilla/lab
 	url = https://github.com/higueraDev/js-lab
+[submodule "nodejs/01"]
+	path = nodejs/01
+	url = https://github.com/higueraDev/js-fundamentals
+[submodule "nodejs/02"]
+	path = nodejs/02
+	url = https://github.com/higueraDev/js-foundations
