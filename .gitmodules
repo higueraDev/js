@@ -7,3 +7,6 @@
 [submodule "nodejs/02"]
 	path = nodejs/02
 	url = https://github.com/higueraDev/js-foundations
+[submodule "nodejs/03"]
+	path = nodejs/03
+	url = https://github.com/higueraDev/node-typescript
