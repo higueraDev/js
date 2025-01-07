@@ -10,3 +10,6 @@
 [submodule "nodejs/03"]
 	path = nodejs/03
 	url = https://github.com/higueraDev/node-typescript
+[submodule "nodejs/04"]
+	path = nodejs/04
+	url = https://github.com/higueraDev/multiplication-node
