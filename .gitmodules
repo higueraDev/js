@@ -13,3 +13,6 @@
 [submodule "nodejs/04"]
 	path = nodejs/04
 	url = https://github.com/higueraDev/multiplication-node
+[submodule "nodejs/05"]
+	path = nodejs/05
+	url = https://github.com/higueraDev/NOC-nodejs
